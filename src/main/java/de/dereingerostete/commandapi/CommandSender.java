@@ -41,7 +41,7 @@ public class CommandSender {
         return name;
     }
 
-    public String getId() {
+    public String getSessionPlayerId() {
         return id;
     }
 
